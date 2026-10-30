@@ -1,0 +1,9 @@
+# Python 3.11.1 (versions as printed by the notebook's version-check cell; torch and torchvision were CPU builds)
+torch==2.14.0
+torchvision==0.29.0
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+Pillow==12.3.0
+ipykernel==7.3.0

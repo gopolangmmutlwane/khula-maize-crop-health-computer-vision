@@ -1,0 +1,23 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Private material (peer review naming another student, old files)
+_not_for_github/
+
+# Dataset (CC BY-NC-SA 4.0, download from Kaggle; see data/README.md)
+data/*
+!data/README.md
+*.zip
+
+# Model weights
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
